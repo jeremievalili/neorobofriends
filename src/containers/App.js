@@ -2,6 +2,7 @@ import React from 'react';
 import Cardlist from '../components/Cardlist';
 import SearchBox from '../components/SearchBox';
 import ErrorBoundary from '../components/ErrorBoundary';
+import SocialFooter from '../components/SocialFooter';
 import Scroll from '../components/Scroll';
 import './app.css';
 
@@ -41,6 +42,7 @@ class App extends React.Component {
                      <Cardlist robots={filteredRobots} />
                    </ErrorBoundary>
                 </Scroll>
+                <SocialFooter />
                 </div>
             )   
     }
