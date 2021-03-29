@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/neorobofriends/static/css/main.24a275be.chunk.css",
-    "main.js": "/neorobofriends/static/js/main.422d7706.chunk.js",
-    "main.js.map": "/neorobofriends/static/js/main.422d7706.chunk.js.map",
+    "main.js": "/neorobofriends/static/js/main.387b1e04.chunk.js",
+    "main.js.map": "/neorobofriends/static/js/main.387b1e04.chunk.js.map",
     "runtime-main.js": "/neorobofriends/static/js/runtime-main.338786dd.js",
     "runtime-main.js.map": "/neorobofriends/static/js/runtime-main.338786dd.js.map",
     "static/css/2.fe359a49.chunk.css": "/neorobofriends/static/css/2.fe359a49.chunk.css",
@@ -12,13 +12,16 @@
     "static/css/2.fe359a49.chunk.css.map": "/neorobofriends/static/css/2.fe359a49.chunk.css.map",
     "static/css/main.24a275be.chunk.css.map": "/neorobofriends/static/css/main.24a275be.chunk.css.map",
     "static/js/2.3b2f2bd2.chunk.js.LICENSE.txt": "/neorobofriends/static/js/2.3b2f2bd2.chunk.js.LICENSE.txt",
-    "static/media/app.css": "/neorobofriends/static/media/SEGA.47b4bfa9.woff"
+    "static/media/app.css": "/neorobofriends/static/media/SEGA.47b4bfa9.woff",
+    "static/media/github.fa0212fe.svg": "/neorobofriends/static/media/github.fa0212fe.svg",
+    "static/media/instagram.02967a62.svg": "/neorobofriends/static/media/instagram.02967a62.svg",
+    "static/media/twitter.88d497cc.svg": "/neorobofriends/static/media/twitter.88d497cc.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.338786dd.js",
     "static/css/2.fe359a49.chunk.css",
     "static/js/2.3b2f2bd2.chunk.js",
     "static/css/main.24a275be.chunk.css",
-    "static/js/main.422d7706.chunk.js"
+    "static/js/main.387b1e04.chunk.js"
   ]
 }
