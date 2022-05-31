@@ -1,3 +1,7 @@
+# NeoRobotFriends App
+Project made to learn React and how to fetch data
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
